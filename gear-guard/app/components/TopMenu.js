@@ -9,7 +9,7 @@ export default function TopMenu() {
 
   const menus = [
     { name: "Dashboard", path: "/" },
-    { name: "Maintenance", path: "/maintenance" },
+    { name: "Maintenance", path: "maintenance/request/101" },
     // { name: "Calendar", path: "/maintenance/calendar" },
     { name: "Equipment", path: "/equipment" },
     { name: "Work-Center", path: "/work-center"},
